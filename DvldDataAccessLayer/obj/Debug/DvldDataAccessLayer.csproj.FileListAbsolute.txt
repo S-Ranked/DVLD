@@ -1,0 +1,6 @@
+C:\Users\miraq\source\repos\DvldDataAccessLayer\bin\Debug\DvldDataAccessLayer.dll
+C:\Users\miraq\source\repos\DvldDataAccessLayer\bin\Debug\DvldDataAccessLayer.pdb
+C:\Users\miraq\source\repos\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\miraq\source\repos\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\miraq\source\repos\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.dll
+C:\Users\miraq\source\repos\DvldDataAccessLayer\obj\Debug\DvldDataAccessLayer.pdb

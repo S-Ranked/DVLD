@@ -1,0 +1,9 @@
+C:\Users\miraq\source\repos\DvldBusinessLayer\bin\Debug\DvldBusinessLayer.dll
+C:\Users\miraq\source\repos\DvldBusinessLayer\bin\Debug\DvldBusinessLayer.pdb
+C:\Users\miraq\source\repos\DvldBusinessLayer\bin\Debug\DvldDataAccessLayer.dll
+C:\Users\miraq\source\repos\DvldBusinessLayer\bin\Debug\DvldDataAccessLayer.pdb
+C:\Users\miraq\source\repos\DvldBusinessLayer\obj\Debug\Dvld_Business.csproj.AssemblyReference.cache
+C:\Users\miraq\source\repos\DvldBusinessLayer\obj\Debug\Dvld_Business.csproj.CoreCompileInputs.cache
+C:\Users\miraq\source\repos\DvldBusinessLayer\obj\Debug\DvldBusinessLayer.dll
+C:\Users\miraq\source\repos\DvldBusinessLayer\obj\Debug\DvldBusinessLayer.pdb
+C:\Users\miraq\source\repos\DvldBusinessLayer\obj\Debug\DVLD_Bus.1422E61B.Up2Date
